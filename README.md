@@ -13,7 +13,7 @@ Software developer committed to creating innovative and high-quality solutions. 
 </a>  <a href="mailto:oliveira.gpt@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-   <a href="" download>
+   <a href="RICARDO OLIVEIRA.pdf" download>
   <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=Github&logoColor=white"/>
  </a>
   <a href="https://www.instagram.com/x_0liveira/" target="_blank">
