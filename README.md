@@ -33,10 +33,10 @@ Software developer committed to creating innovative and high-quality solutions. 
 <br/>
 
 <div align="center">
-    <div style="width: 50%;">
+    <div style="display: inline-block; width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraDevCode&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ricardo Oliveira's Top Languages">
     </div>
-    <div style="width: 50%;">
+    <div style="display: inline-block; width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api?username=OliveiraDevCode&show_icons=true&locale=en&theme=radical" alt="Ricardo Oliveira's GitHub Stats">
     </div>
 </div>
