@@ -29,8 +29,8 @@ Software developer committed to creating innovative and high-quality solutions. 
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraDevCode&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ricardo Oliveira" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=OliveiraDevCode&show_icons=true&locale=en&theme=radical" alt="Ricardo Oliveira" style="display: inline-block; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraDevCode&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ricardo Oliveira" style="display: inline-block; margin-right: 10px; height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=OliveiraDevCode&show_icons=true&locale=en&theme=radical" alt="Ricardo Oliveira" style="display: inline-block; margin-left: 10px; height: 195px;">
 </div>
 <p>
 <br/>
