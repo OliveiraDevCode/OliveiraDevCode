@@ -33,8 +33,12 @@ Software developer committed to creating innovative and high-quality solutions. 
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraDevCode&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ricardo Oliveira" style="display: inline-block; margin-right: 10px; height: 195px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=OliveiraDevCode&show_icons=true&locale=en&theme=radical" alt="Ricardo Oliveira" style="display: inline-block; margin-left: 10px; height: 195px;">
+    <div style="width: 45%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraDevCode&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ricardo Oliveira's Top Languages">
+    </div>
+    <div style="width: 45%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=OliveiraDevCode&show_icons=true&locale=en&theme=radical" alt="Ricardo Oliveira's GitHub Stats">
+    </div>
 </div>
 <p>
 <br/>
@@ -44,8 +48,6 @@ Software developer committed to creating innovative and high-quality solutions. 
 [![Annabells Mystery](https://github-readme-stats.vercel.app/api/pin/?username=OliveiraDevCode&repo=AnnabellsMystery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OliveiraDevCode/AnnabellsMystery)
 [![GamesWeek](https://github-readme-stats.vercel.app/api/pin/?username=OliveiraDevCode&repo=GamesWeek&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OliveiraDevCode/GamesWeek)
 [![Multi-Client-Chat](https://github-readme-stats.vercel.app/api/pin/?username=OliveiraDevCode&repo=Multi-Client-Chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OliveiraDevCode/Multi-Client-Chat)
-
-
 
 <p align="left">
   <a href="https://github.com/OliveiraDevCode?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
