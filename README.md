@@ -1,7 +1,7 @@
 <h3 align="center">Hello world, I'm Ricardo Oliveira</h3>
 <h4 align="center">✨ a developer in development ✨</h4>
 <br>
-<p align="center">📖  I’m currently studying Eloquent Javascript (https://eloquentjavascript.net/)</p>
+
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
