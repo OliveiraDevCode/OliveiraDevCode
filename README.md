@@ -2,6 +2,12 @@
 <h4 align="center">✨ a developer in development ✨</h4>
 <br>
 
+<p align="center">
+  From bartender to programmer.
+  <br>
+  With experience in hotels and bars, I replaced my shaker with lines of code. Where cocktails were once mixed, now algorithms and data structures are created, exploring the infinite possibilities of the digital world.
+</p>
+
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
