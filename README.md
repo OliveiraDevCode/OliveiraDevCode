@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ricardo Oliveira 👋</h1>
 
 <p align="center">
-  <b>QA Engineer with a Full-Stack Development background | API, Integration & Performance Testing | C# / .NET | TypeScript</b>
+  <b>QA Engineer with a Full-Stack Development background |
 </p>
 
 <p align="center">
