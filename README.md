@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Associate QA Engineer with hands-on experience in test automation, API testing, performance testing, and CI/CD quality practices.
-  <br>
-  I work closely with engineering teams to improve software quality, release confidence, and development efficiency across multiple products and services.
+  Associate QA Engineer with hands-on experience in test automation, API validation, performance testing, and CI/CD quality practices.
+  <br><br>
+  With a Full-Stack Development background, I enjoy building reliable software and working closely with engineering teams to improve product quality, release confidence, and development efficiency across multiple services and workflows.
 </p>
 
 ---
