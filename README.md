@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ricardo Oliveira 👋</h1>
 
 <p align="center">
-  <b>Software Developer / QA Engineer</b>
+  <b>Software Developer / QA Engineer | Full-Stack Development background</b>
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages
@@ -27,8 +28,6 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 <p>
@@ -37,6 +36,8 @@
 
 ### ⚙️ Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
