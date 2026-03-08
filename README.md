@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ricardo Oliveira 👋</h1>
 
 <p align="center">
-  <b>Software Developer & Quality Engineer with a Full-Stack Development background</b>
+  <b>Software Developer / QA Engineer</b>
 </p>
 
 <p align="center">
