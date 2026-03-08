@@ -3,9 +3,7 @@
 
 <p align="center">
   QA Engineer with hands-on experience in test automation, API testing, performance testing, and CI/CD quality practices.
-</p>
-
-<p align="center">
+  <br><br>
   I work closely with engineering teams to improve software quality, release confidence, and development efficiency across multiple products and services.
 </p>
 
@@ -27,30 +25,46 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Languages - Frameworks - Tools - Libraries</h3>
 
-<h4 align="center">💻 Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,java,dotnet" />
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
 </p>
 
-<h4 align="center">🧪 QA / Automation / Testing</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" />
+  </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
+  </a>
 </p>
 
 <p align="center">
-  Playwright • Cypress • Reqnroll • SpecFlow • xUnit • JMeter • Testcontainers
-</p>
-
-<h4 align="center">⚙️ Platforms / Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,kafka" />
-</p>
-
-<h4 align="center">🔐 Code Quality / Security</h4>
-<p align="center">
-  SonarQube • Snyk • TFSec • Checkov
+  Reqnroll • SpecFlow • xUnit • JMeter • Testcontainers • SonarQube • Snyk • TFSec • Checkov
 </p>
 
 ---
