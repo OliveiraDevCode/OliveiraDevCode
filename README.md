@@ -1,108 +1,99 @@
-<h3 align="center">Hello world, I'm Ricardo Oliveira</h3>
-<h4 align="center">✨ a developer in development ✨</h4>
-<br>
+<h1 align="center">Hi, I'm Ricardo Oliveira 👋</h1>
+<h3 align="center">QA Automation Engineer | SDET-minded | C# / TypeScript / API / Performance Testing</h3>
 
 <p align="center">
-  From bartender to programmer.
-  <br>
-  With experience in hotels and bars, I replaced my shaker with lines of code. Where cocktails were once mixed, now algorithms and data structures are created, exploring the infinite possibilities of the digital world.
+  From hospitality to tech — I changed fast-paced customer environments for software quality and engineering.
+  <br><br>
+  I currently work as an <b>Associate QA Engineer</b>, focused on <b>test automation</b>, <b>API validation</b>, 
+  <b>performance testing</b>, and <b>CI/CD quality practices</b>.
+  <br><br>
+  I enjoy working close to engineering teams to improve release confidence, product quality, and development efficiency.
 </p>
 
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ricard0oliveira" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="pedroferreiracodes" height="40" width="40" /></a>
- <a href="mailto:oliveiradevcode@gmail.com" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="pedroferreiracodes" height="40" width="40" /></a>
-</p>
-<br>
-<h3 align="center">🚀 Languages - Frameworks - Tools - Libraries 🚀</h3>
-<div align="center">
-  <!-- First Row -->
-  <div>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    </a>
-  </div>
-  <!-- Second Row -->
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    </a>
-  </div>
-  <!-- Third Row -->
-  <div>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    </a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    </a>
-  </div>
-  <!-- Fourth Row -->
-  <div>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=maven" alt="Maven" />
-    </a>
-    <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-    </a>
-  </div>
-  <!-- Fifth Row -->
-  <div>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    </a>
-  </div>
-  <!-- Sixth Row -->
-  <div>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
-    </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-    </a>
-  </div>
-  <!-- Seventh Row -->
-  <div>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    </a>
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
-    </a>
-  </div>
-  <!-- Eighth Row -->
-  <div>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-    </a>
-    <a href="https://codepen.io/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" />
-    </a>
-  </div>
-</div>
+---
+
+<h3 align="center">About me</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroferreiracodes&show_icons=true&locale=en&layout=compact" alt="pedroferreiracodes" />
+  🔍 Associate QA Engineer with experience across multiple teams and products<br>
+  🤖 Focused on automation, API testing, platform quality, and engineering productivity<br>
+  ⚙️ Hands-on with C#, .NET, TypeScript, JavaScript, Playwright, Cypress, and Docker<br>
+  📈 Interested in performance testing, quality tooling, and modern engineering practices<br>
+  🚀 Also growing toward Software Engineering, especially Backend / Full-Stack .NET roles
+</p>
+
+---
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricard0oliveira" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oliveiradevcode@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <b>Languages</b><br><br>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,java,dotnet" />
+</p>
+
+<p align="center">
+  <b>Test Automation & QA</b><br><br>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+<p align="center">
+  Playwright • Cypress • Reqnroll / SpecFlow • API Testing • Performance Testing
+</p>
+
+<p align="center">
+  <b>Dev Tools & Platforms</b><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,vscode,idea" />
+</p>
+
+<p align="center">
+  <b>Code Quality & Security</b><br><br>
+  SonarQube • Snyk • TFSec • Checkov • CI/CD Quality Validation
+</p>
+
+---
+
+<h3 align="center">What I work on</h3>
+
+<p align="center">
+  ✅ Automated testing for web and APIs<br>
+  ✅ Cross-team quality support with strong business context<br>
+  ✅ Performance validation and test reliability improvements<br>
+  ✅ Quality gates in CI/CD pipelines<br>
+  ✅ Internal engineering tooling for security and quality visibility
+</p>
+
+---
+
+<h3 align="center">Currently focusing on</h3>
+
+<p align="center">
+  🌱 Building stronger automation frameworks<br>
+  🌱 Improving API and performance testing skills<br>
+  🌱 Growing as a Software Engineer in .NET and backend development<br>
+  🌱 Creating projects that combine engineering + quality mindset
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricard0oliveira&show_icons=true&theme=default" alt="Ricardo Oliveira GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricard0oliveira&layout=compact&theme=default" alt="Top Languages" />
 </p>
