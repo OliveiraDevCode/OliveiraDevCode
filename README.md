@@ -5,15 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricard0oliveira">
-    <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:oliveiradevcode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-oliveiradevcode%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   Associate QA Engineer with hands-on experience in test automation, API testing, performance testing, and CI/CD quality practices.
   <br>
   I work closely with engineering teams to improve software quality, release confidence, and development efficiency across multiple products and services.
@@ -70,7 +61,6 @@
 ---
 
 ## 🧠 What I do
-
 - Test automation for web, APIs, and backend workflows
 - API validation with Postman
 - Performance testing with JMeter
@@ -84,7 +74,6 @@
 ---
 
 ## 🎯 Current Focus
-
 - Strengthening automation frameworks
 - Improving API, integration, and performance testing practices
 - Expanding quality engineering skills
@@ -93,6 +82,5 @@
 ---
 
 ## 📫 Connect with me
-
-- LinkedIn: [linkedin.com/in/ricard0oliveira](https://www.linkedin.com/in/ricard0oliveira)
+- LinkedIn: [Ricardo Oliveira](https://www.linkedin.com/in/ricard0oliveira)
 - Email: [oliveiradevcode@gmail.com](mailto:oliveiradevcode@gmail.com)
