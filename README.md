@@ -2,7 +2,7 @@
 <h3 align="center">QA Automation Engineer | API, Integration & Performance Testing | C# / .NET | TypeScript</h3>
 
 <p align="center">
-  Associate QA Engineer with hands-on experience in test automation, API testing, performance testing, and CI/CD quality practices.
+  QA Engineer with hands-on experience in test automation, API testing, performance testing, and CI/CD quality practices.
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 <h4 align="center">⚙️ Platforms / Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,vscode,idea,kafka" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,kafka" />
 </p>
 
 <h4 align="center">🔐 Code Quality / Security</h4>
