@@ -28,10 +28,12 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-<p>
-  Reqnroll • SpecFlow • xUnit • JMeter • Testcontainers • Azure Load Testing
+  <img src="https://img.shields.io/badge/Reqnroll-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SpecFlow-7B3FE4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Load%20Testing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -46,10 +48,11 @@
 
 ### 🔐 Quality & Security
 <p>
-  SonarQube • Snyk • TFSec • Checkov
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TFSec-5B6CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Checkov-F7DF1E?style=for-the-badge&logoColor=black" />
 </p>
-
----
 
 ## 🧠 What I do
 - Test automation for web, APIs, and backend workflows
