@@ -4,7 +4,7 @@
 <p align="center">
   From hospitality to tech — I changed fast-paced customer environments for software quality and engineering.
   <br><br>
-  I currently work as an <b>Associate QA Engineer</b>, focused on <b>test automation</b>, <b>API validation</b>, 
+  I currently work as an <b>QA Engineer</b>, focused on <b>test automation</b>, <b>API validation</b>, 
   <b>performance testing</b>, and <b>CI/CD quality practices</b>.
   <br><br>
   I enjoy working close to engineering teams to improve release confidence, product quality, and development efficiency.
